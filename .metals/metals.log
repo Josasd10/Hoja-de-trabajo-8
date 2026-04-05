@@ -1,0 +1,241 @@
+2026.04.05 13:28:45 INFO  Started: Metals version 1.6.6 in folders 'C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8' for client Visual Studio Code 1.114.0.
+2026.04.05 13:28:45 INFO  Memory monitor started
+2026.04.05 13:28:48 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.05 13:28:49 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java. Using fallback presentation compiler.
+Apr 05, 2026 1:28:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2026.04.05 13:28:49 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:28:49 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:28:50 WARN  no build tool detected in workspace 'C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.04.05 13:28:50 WARN  Build server is not auto-connectable.
+2026.04.05 13:28:49 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:28:50 WARN  no build target for: C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java
+2026.04.05 13:28:50 WARN  no build target for: C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\EmergenciasVectorHeap.java
+2026.04.05 13:28:50 WARN  no build target for: C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\Paciente.java
+2026.04.05 13:28:50 WARN  no build target for: C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\VectorHeap.java
+2026.04.05 13:28:50 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java. Using fallback presentation compiler.
+Apr 05, 2026 1:28:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+2026.04.05 13:28:50 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:28:51 WARN  Running javac-semanticdb failed for file:///C:/Users/joses/OneDrive/Desktop/estructura%20de%20datos/Hoja%20de%20trabajo%208/Hoja-de-trabajo-8/EmergenciasVectorHeap.java. Output:
+
+2026.04.05 13:28:52 WARN  Running javac-semanticdb failed for file:///C:/Users/joses/OneDrive/Desktop/estructura%20de%20datos/Hoja%20de%20trabajo%208/Hoja-de-trabajo-8/PriorityQueue.java. Output:
+
+2026.04.05 13:28:52 INFO  time: code lens generation in 2.51s
+2026.04.05 13:28:53 WARN  Running javac-semanticdb failed for file:///C:/Users/joses/OneDrive/Desktop/estructura%20de%20datos/Hoja%20de%20trabajo%208/Hoja-de-trabajo-8/VectorHeap.java. Output:
+
+2026.04.05 13:28:53 WARN  Running javac-semanticdb failed for file:///C:/Users/joses/OneDrive/Desktop/estructura%20de%20datos/Hoja%20de%20trabajo%208/Hoja-de-trabajo-8/Paciente.java. Output:
+
+2026.04.05 13:28:54 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:28:56 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:28:58 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:28:59 WARN  no build target for: C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java
+2026.04.05 13:29:04 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\Paciente.java. Using fallback presentation compiler.
+2026.04.05 13:29:04 WARN  no build target for: C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\Paciente.java
+2026.04.05 13:29:04 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\Paciente.java. Using fallback presentation compiler.
+2026.04.05 13:29:04 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\Paciente.java. Using fallback presentation compiler.
+2026.04.05 13:29:04 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\Paciente.java. Using fallback presentation compiler.
+2026.04.05 13:29:05 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\Paciente.java. Using fallback presentation compiler.
+2026.04.05 13:29:05 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\Paciente.java. Using fallback presentation compiler.
+2026.04.05 13:29:05 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\Paciente.java. Using fallback presentation compiler.
+2026.04.05 13:29:06 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\Paciente.java. Using fallback presentation compiler.
+2026.04.05 13:29:06 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\Paciente.java. Using fallback presentation compiler.
+2026.04.05 13:29:06 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\Paciente.java. Using fallback presentation compiler.
+2026.04.05 13:29:06 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\Paciente.java. Using fallback presentation compiler.
+2026.04.05 13:29:08 WARN  Running javac-semanticdb failed for file:///C:/Users/joses/OneDrive/Desktop/estructura%20de%20datos/Hoja%20de%20trabajo%208/Hoja-de-trabajo-8/Paciente.java. Output:
+
+2026.04.05 13:29:11 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\Paciente.java. Using fallback presentation compiler.
+2026.04.05 13:29:11 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\Paciente.java. Using fallback presentation compiler.
+2026.04.05 13:29:11 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\Paciente.java. Using fallback presentation compiler.
+2026.04.05 13:29:12 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\Paciente.java. Using fallback presentation compiler.
+2026.04.05 13:29:12 WARN  Running javac-semanticdb failed for file:///C:/Users/joses/OneDrive/Desktop/estructura%20de%20datos/Hoja%20de%20trabajo%208/Hoja-de-trabajo-8/Paciente.java. Output:
+
+2026.04.05 13:29:13 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\Paciente.java. Using fallback presentation compiler.
+2026.04.05 13:29:13 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\Paciente.java. Using fallback presentation compiler.
+2026.04.05 13:29:15 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\Paciente.java. Using fallback presentation compiler.
+2026.04.05 13:29:15 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\Paciente.java. Using fallback presentation compiler.
+2026.04.05 13:29:17 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\Paciente.java. Using fallback presentation compiler.
+2026.04.05 13:29:17 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\Paciente.java. Using fallback presentation compiler.
+2026.04.05 13:29:19 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\Paciente.java. Using fallback presentation compiler.
+2026.04.05 13:29:19 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\Paciente.java. Using fallback presentation compiler.
+2026.04.05 13:29:19 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\Paciente.java. Using fallback presentation compiler.
+2026.04.05 13:29:19 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\Paciente.java. Using fallback presentation compiler.
+2026.04.05 13:29:27 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\Paciente.java. Using fallback presentation compiler.
+2026.04.05 13:29:29 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\Paciente.java. Using fallback presentation compiler.
+2026.04.05 13:29:31 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\Paciente.java. Using fallback presentation compiler.
+2026.04.05 13:29:31 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\Paciente.java. Using fallback presentation compiler.
+2026.04.05 13:29:33 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\Paciente.java. Using fallback presentation compiler.
+2026.04.05 13:29:33 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\Paciente.java. Using fallback presentation compiler.
+2026.04.05 13:29:33 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\Paciente.java. Using fallback presentation compiler.
+2026.04.05 13:29:34 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\Paciente.java. Using fallback presentation compiler.
+2026.04.05 13:29:34 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\Paciente.java. Using fallback presentation compiler.
+2026.04.05 13:29:35 WARN  Running javac-semanticdb failed for file:///C:/Users/joses/OneDrive/Desktop/estructura%20de%20datos/Hoja%20de%20trabajo%208/Hoja-de-trabajo-8/Paciente.java. Output:
+
+2026.04.05 13:29:35 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\Paciente.java. Using fallback presentation compiler.
+2026.04.05 13:29:36 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\Paciente.java. Using fallback presentation compiler.
+2026.04.05 13:29:36 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\Paciente.java. Using fallback presentation compiler.
+2026.04.05 13:29:38 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\Paciente.java. Using fallback presentation compiler.
+2026.04.05 13:29:38 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\Paciente.java. Using fallback presentation compiler.
+2026.04.05 13:29:38 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\Paciente.java. Using fallback presentation compiler.
+2026.04.05 13:29:39 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\Paciente.java. Using fallback presentation compiler.
+2026.04.05 13:29:41 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\Paciente.java. Using fallback presentation compiler.
+2026.04.05 13:29:41 WARN  Running javac-semanticdb failed for file:///C:/Users/joses/OneDrive/Desktop/estructura%20de%20datos/Hoja%20de%20trabajo%208/Hoja-de-trabajo-8/Paciente.java. Output:
+
+2026.04.05 13:29:41 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\Paciente.java. Using fallback presentation compiler.
+2026.04.05 13:29:51 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\VectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:29:52 WARN  no build target for: C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\VectorHeap.java
+2026.04.05 13:29:51 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\VectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:29:52 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\VectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:29:51 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\VectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:29:53 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\VectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:29:53 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\VectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:29:53 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\VectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:29:54 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\VectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:29:54 WARN  Running javac-semanticdb failed for file:///C:/Users/joses/OneDrive/Desktop/estructura%20de%20datos/Hoja%20de%20trabajo%208/Hoja-de-trabajo-8/VectorHeap.java. Output:
+
+2026.04.05 13:29:55 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\VectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:29:55 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\VectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:29:55 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\VectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:29:55 WARN  Running javac-semanticdb failed for file:///C:/Users/joses/OneDrive/Desktop/estructura%20de%20datos/Hoja%20de%20trabajo%208/Hoja-de-trabajo-8/VectorHeap.java. Output:
+
+2026.04.05 13:29:56 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\VectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:29:55 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\VectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:29:55 WARN  Running javac-semanticdb failed for file:///C:/Users/joses/OneDrive/Desktop/estructura%20de%20datos/Hoja%20de%20trabajo%208/Hoja-de-trabajo-8/VectorHeap.java. Output:
+
+2026.04.05 13:29:56 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\VectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:29:55 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\VectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:29:56 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\VectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:29:56 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\VectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:30:00 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\VectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:30:00 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\VectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:30:00 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\VectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:30:01 WARN  Running javac-semanticdb failed for file:///C:/Users/joses/OneDrive/Desktop/estructura%20de%20datos/Hoja%20de%20trabajo%208/Hoja-de-trabajo-8/VectorHeap.java. Output:
+
+2026.04.05 13:30:01 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\VectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:30:02 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\VectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:30:02 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\VectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:30:03 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\VectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:30:03 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\VectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:30:04 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\VectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:30:04 WARN  Running javac-semanticdb failed for file:///C:/Users/joses/OneDrive/Desktop/estructura%20de%20datos/Hoja%20de%20trabajo%208/Hoja-de-trabajo-8/VectorHeap.java. Output:
+
+2026.04.05 13:30:05 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\VectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:30:05 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\VectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:30:07 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\VectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:30:07 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\VectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:30:07 WARN  Running javac-semanticdb failed for file:///C:/Users/joses/OneDrive/Desktop/estructura%20de%20datos/Hoja%20de%20trabajo%208/Hoja-de-trabajo-8/VectorHeap.java. Output:
+
+2026.04.05 13:30:08 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\VectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:30:08 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\VectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:30:08 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\VectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:30:11 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\VectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:30:11 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\VectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:30:11 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\VectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:30:12 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\VectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:30:12 WARN  Running javac-semanticdb failed for file:///C:/Users/joses/OneDrive/Desktop/estructura%20de%20datos/Hoja%20de%20trabajo%208/Hoja-de-trabajo-8/VectorHeap.java. Output:
+
+2026.04.05 13:30:13 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\VectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:30:15 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\VectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:30:15 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\VectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:30:18 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\VectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:30:18 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\VectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:30:18 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\VectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:30:18 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\VectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:30:20 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\VectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:30:20 WARN  Running javac-semanticdb failed for file:///C:/Users/joses/OneDrive/Desktop/estructura%20de%20datos/Hoja%20de%20trabajo%208/Hoja-de-trabajo-8/VectorHeap.java. Output:
+
+2026.04.05 13:30:20 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\VectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:30:35 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\VectorHeap.java. Using fallback presentation compiler.
+Apr 05, 2026 1:30:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 200
+2026.04.05 13:30:35 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\EmergenciasVectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:30:36 WARN  no build target for: C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\EmergenciasVectorHeap.java
+2026.04.05 13:30:36 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\EmergenciasVectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:30:37 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\EmergenciasVectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:30:36 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\EmergenciasVectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:30:37 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\EmergenciasVectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:30:37 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\EmergenciasVectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:30:37 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\EmergenciasVectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:30:38 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\EmergenciasVectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:30:38 WARN  Running javac-semanticdb failed for file:///C:/Users/joses/OneDrive/Desktop/estructura%20de%20datos/Hoja%20de%20trabajo%208/Hoja-de-trabajo-8/EmergenciasVectorHeap.java. Output:
+
+2026.04.05 13:30:38 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\EmergenciasVectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:30:39 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\EmergenciasVectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:30:38 WARN  Running javac-semanticdb failed for file:///C:/Users/joses/OneDrive/Desktop/estructura%20de%20datos/Hoja%20de%20trabajo%208/Hoja-de-trabajo-8/EmergenciasVectorHeap.java. Output:
+
+2026.04.05 13:30:38 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\EmergenciasVectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:30:40 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\EmergenciasVectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:30:43 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\EmergenciasVectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:30:51 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:30:51 WARN  no build target for: C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java
+2026.04.05 13:30:51 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:30:51 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:30:51 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:30:52 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:30:52 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:30:53 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:30:53 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:30:54 WARN  Running javac-semanticdb failed for file:///C:/Users/joses/OneDrive/Desktop/estructura%20de%20datos/Hoja%20de%20trabajo%208/Hoja-de-trabajo-8/PriorityQueue.java. Output:
+
+2026.04.05 13:30:53 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:30:54 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java. Using fallback presentation compiler.
+Apr 05, 2026 1:30:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 248
+2026.04.05 13:30:55 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:30:54 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:30:57 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:30:58 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:30:58 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:30:58 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:30:59 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:30:59 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:31:00 WARN  Running javac-semanticdb failed for file:///C:/Users/joses/OneDrive/Desktop/estructura%20de%20datos/Hoja%20de%20trabajo%208/Hoja-de-trabajo-8/PriorityQueue.java. Output:
+
+2026.04.05 13:31:01 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:31:01 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:31:49 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:31:49 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:31:49 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:31:52 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:31:55 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:31:55 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:31:55 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:31:56 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:31:56 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:32:02 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:32:02 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:32:04 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:32:04 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:32:04 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:32:04 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java. Using fallback presentation compiler.
+Apr 05, 2026 1:32:20 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.04.05 13:32:21 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:32:40 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:32:49 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:32:49 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:32:51 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:32:51 WARN  no build target for: C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java
+2026.04.05 13:32:51 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:32:51 INFO  no build target found for c:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\PriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:32:52 WARN  no build target for: C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\EmergenciasPriorityQueue.java
+2026.04.05 13:32:52 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\EmergenciasPriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:32:51 WARN  Running javac-semanticdb failed for file:///C:/Users/joses/OneDrive/Desktop/estructura%20de%20datos/Hoja%20de%20trabajo%208/Hoja-de-trabajo-8/EmergenciasPriorityQueue.java. Output:
+
+2026.04.05 13:32:52 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\EmergenciasPriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:32:52 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\EmergenciasPriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:32:52 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\EmergenciasPriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:32:51 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\EmergenciasPriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:32:55 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\EmergenciasPriorityQueue.java. Using fallback presentation compiler.
+2026.04.05 13:32:57 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\EmergenciasVectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:32:57 WARN  no build target for: C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\EmergenciasVectorHeap.java
+2026.04.05 13:32:57 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\EmergenciasVectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:32:58 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\EmergenciasVectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:32:57 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\EmergenciasVectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:32:59 WARN  no build target for: C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\EmergenciasVectorHeap.java
+2026.04.05 13:32:59 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\EmergenciasVectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:32:59 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\EmergenciasVectorHeap.java. Using fallback presentation compiler.
+2026.04.05 13:33:00 WARN  no build target for: C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\Paciente.java
+2026.04.05 13:33:00 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\Paciente.java. Using fallback presentation compiler.
+2026.04.05 13:33:01 WARN  no build target for: C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\Paciente.java
+2026.04.05 13:33:01 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 8\Hoja-de-trabajo-8\Paciente.java. Using fallback presentation compiler.

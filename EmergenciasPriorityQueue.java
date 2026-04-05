@@ -1,14 +1,11 @@
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.IOException;
+import java.io.*;
+import java.util.PriorityQueue;
 
-/**
- * Programa que usa VectorHeap para atender pacientes
- */
-public class EmergenciasVectorHeap {
+
+public class EmergenciasPriorityQueue {
 
     public static void main(String[] args) {
-        VectorHeap<Paciente> cola = new VectorHeap<>();
+        PriorityQueue<Paciente> cola = new PriorityQueue<>();
 
         try (BufferedReader br = new BufferedReader(new FileReader("pacientes.txt"))) {
             String linea;
@@ -27,9 +24,9 @@ public class EmergenciasVectorHeap {
             e.printStackTrace();
         }
 
-        System.out.println("Orden de atención (VectorHeap):");
+        System.out.println("Orden de atención (PriorityQueue):");
         while (!cola.isEmpty()) {
-            System.out.println(cola.remove());
+            System.out.println(cola.poll());
         }
     }
 }
